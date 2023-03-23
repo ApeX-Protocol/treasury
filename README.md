@@ -5,7 +5,7 @@
 **Arbitrum**: [0xAE792a7bf5f85A68fFE92BFBfA7a04c72D7CB095](https://arbiscan.io/address/0xAE792a7bf5f85A68fFE92BFBfA7a04c72D7CB095)
 
 ## Signers:
-**All treasury addresses have some signers as follow:**
+**All treasury addresses have same signers as follow:**
 
 0x22c89137525b593Dd2A18434348b550ffA5984Fe
 
